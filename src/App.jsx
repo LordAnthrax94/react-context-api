@@ -1,4 +1,4 @@
-
+import postList from "./Components/PostList"
 
 function App() {
   
